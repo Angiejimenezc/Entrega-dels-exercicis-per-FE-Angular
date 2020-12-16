@@ -1,4 +1,4 @@
-# Entrega-dels-exercicis-per-FE-Angular
+# Entrega dels exercicis per Vue
 
 Profile SoloLearn #1
 https://www.sololearn.com/Profile/20206178/?ref=app
